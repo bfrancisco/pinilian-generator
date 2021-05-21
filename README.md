@@ -1,6 +1,4 @@
-# pinilian-generator
-Computerized Pinilian pattern generator using Python, PIL, and wxPython. 
+#What's Pinilian?
+Pinilian is a traditional weaving technique in the Philippines. 
 
-.exe file on app-executable>dist>gui
-
-will update README
+![Pinilian Weaving](/visualization/PinilianWeaving.png "Pinilian Weaving")
