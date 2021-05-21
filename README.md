@@ -28,13 +28,13 @@ Users can input their preferred:
 Here are some *nice* outputs made from the generator.
 
 <p align="center">
-  <img src="/patterns-output/PNG139142342021.png" width="300"> <img src="/patterns-output/PNG3354132342021.png" width="300"> <img src="/patterns-output/PNG587142342021.png" width="300">
+  <img src="/patterns-output/PNG139142342021.png" width="280"> <img src="/patterns-output/PNG3354132342021.png" width="280"> <img src="/patterns-output/PNG587142342021.png" width="280">
 </p>
 
 Here are some GIF animations.
 
 <p align="center">
-  <img src="/patterns-output/GIF189142342021.gif" width="300"> <img src="/patterns-output/GIF555132342021.gif" width="300"> <img src="/patterns-output/GIF38142342021.gif" width="300">
+  <img src="/patterns-output/GIF189142342021.gif" width="280"> <img src="/patterns-output/GIF555132342021.gif" width="280"> <img src="/patterns-output/GIF38142342021.gif" width="280">
 </p>
 
 # Used Python modules
