@@ -1,4 +1,4 @@
 # What's Pinilian?
 Pinilian is a traditional weaving technique in the Philippines. 
 
-![Pinilian Weaving](/visualization/PinilianWeaving.jpg "Pinilian Weaving")
+<img src="/visualization/PinilianWeaving.jpg" width="250">
