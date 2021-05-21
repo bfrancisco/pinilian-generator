@@ -20,7 +20,7 @@ Users can input their preferred:
 <img src="/visualization/gen-ui.png" width="500">
 
 # Output examples
-Here are some *nice* outputs from our generator.
+Here are some *nice* outputs made from our generator.
 
 <img src="/patterns-output/PNG139142342021.png" width="300">
 
