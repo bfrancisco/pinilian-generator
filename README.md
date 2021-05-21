@@ -20,7 +20,7 @@ Users can input their preferred:
 <img src="/visualization/gen-ui.png" width="500">
 
 # Output examples
-Here are some nice outputs from our generator.
+Here are some *nice* outputs from our generator.
 
 <img src="/patterns-output/PNG139142342021.png" width="300">
 
@@ -43,6 +43,7 @@ Here are some GIF animations.
 # Last words
 This is actually a project from my Arts class at the **Ateneo de Manila Senior High School**. Special thanks to my groupmates, **Jhoana Aguilar** and **Gwen Curativo**. 
 
-I also give thanks to **Cisco Ortega**, my Comp Prog Coach. His **L-painter** project inspired us to do this project.
+I also give thanks to **Cisco Ortega**, my Comp Prog Coach. His **L-painter** project and **L-textiles** problem in *Codeforces* inspired us to do this project.
 
 (Link to L-painter: https://github.com/gfmortega/L-painter)
+(Link to L-textiles: https://codeforces.com/gym/102912/problem/L)
