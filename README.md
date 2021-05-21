@@ -3,7 +3,10 @@ Pinilian is a traditional weaving technique in the Philippines.
 
 Pinilian means *divided* or *separated* referring to the grid or checkerboard style of the design.
 
-<img src="/visualization/PinilianWeaving.jpg" width="500">
+<p align="center">
+  <img src="/visualization/PinilianWeaving.jpg" width="500">
+</p>
+
 
 (Image source from: https://ph.asiatatler.com/life/weaving-the-threads-of-filipino-heritage)
 
@@ -16,17 +19,23 @@ Users can input their preferred:
   * Primary Color
   * Secondary Color
   * Generate a PNG or GIF pattern
-
-<img src="/visualization/gen-ui.png" width="500">
+  * 
+<p align="center">
+  <img src="/visualization/gen-ui.png" width="500">
+</p>
 
 # Output examples
 Here are some *nice* outputs made from our generator.
 
-<img src="/patterns-output/PNG139142342021.png" width="300"> <img src="/patterns-output/PNG3354132342021.png" width="300"> <img src="/patterns-output/PNG587142342021.png" width="300">
+<p align="center">
+  <img src="/patterns-output/PNG139142342021.png" width="315"> <img src="/patterns-output/PNG3354132342021.png" width="315"> <img src="/patterns-output/PNG587142342021.png" width="315">
+</p>
 
 Here are some GIF animations.
 
-<img src="/patterns-output/GIF189142342021.gif" width="300"> <img src="/patterns-output/GIF38142342021.gif" width="300"> <img src="/patterns-output/GIF555132342021.gif" width="300">
+<p align="center">
+  <img src="/patterns-output/GIF189142342021.gif" width="315"> <img src="/patterns-output/GIF38142342021.gif" width="315"> <img src="/patterns-output/GIF555132342021.gif" width="315">
+</p>
 
 # Used Python modules
 * **wxPython** for the app GUI
