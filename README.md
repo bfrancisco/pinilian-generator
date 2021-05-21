@@ -41,7 +41,7 @@ Here are some GIF animations.
 * **PIL** for image processing
 
 # Last words
-This is actually a project from my Arts class at the **Ateneo de Manila Senior High School**. Special thanks to my groupmates, **Jhoana Aguilar** and **Gwen Curativo**. 
+This is a project from my Arts class at the **Ateneo de Manila Senior High School**. Special thanks to my groupmates, **Jhoana Aguilar** and **Gwen Curativo**. 
 
 I also give thanks to **Cisco Ortega**, my Comp Prog Coach. His **L-painter** project and **L-textiles** problem in *Codeforces* inspired us to do this project.
 
