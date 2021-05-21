@@ -5,7 +5,6 @@ Pinilian means *divided* or *separated* referring to the grid or checkerboard st
 
 <p align="center">
   <img src="/visualization/PinilianWeaving.jpg" width="500">
-  (Image source from: https://ph.asiatatler.com/life/weaving-the-threads-of-filipino-heritage)
 </p>
 <p align="center">
   (Image source from: https://ph.asiatatler.com/life/weaving-the-threads-of-filipino-heritage)
