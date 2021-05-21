@@ -18,7 +18,7 @@ Users can input their preferred:
   * Size (Small, Medium, Large)
   * Primary Color
   * Secondary Color
-  * Generate a PNG or GIF pattern
+  * File format (PNG or GIF)
 
 <p align="center">
   <img src="/visualization/gen-ui.png" width="500">
