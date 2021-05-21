@@ -7,6 +7,9 @@ Pinilian means *divided* or *separated* referring to the grid or checkerboard st
   <img src="/visualization/PinilianWeaving.jpg" width="500">
   (Image source from: https://ph.asiatatler.com/life/weaving-the-threads-of-filipino-heritage)
 </p>
+<p align="center">
+  (Image source from: https://ph.asiatatler.com/life/weaving-the-threads-of-filipino-heritage)
+</p>
 
 # Why make a generator?
 Traditional art forms here in the Philippines are being faded away as society progresses. Through making these kind of generators, we can preserve and still appreciate these traditonal art forms.
@@ -45,4 +48,5 @@ This is a project from my Arts class at the **Ateneo de Manila Senior High Schoo
 I also give thanks to **Cisco Ortega**, my Comp Prog Coach. His **L-painter** project and **L-textiles** problem in *Codeforces* inspired us to do this project.
 
 (Link to L-painter: https://github.com/gfmortega/L-painter)
+
 (Link to L-textiles: https://codeforces.com/gym/102912/problem/L)
