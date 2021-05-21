@@ -5,10 +5,8 @@ Pinilian means *divided* or *separated* referring to the grid or checkerboard st
 
 <p align="center">
   <img src="/visualization/PinilianWeaving.jpg" width="500">
+  (Image source from: https://ph.asiatatler.com/life/weaving-the-threads-of-filipino-heritage)
 </p>
-
-
-(Image source from: https://ph.asiatatler.com/life/weaving-the-threads-of-filipino-heritage)
 
 # Why make a generator?
 Traditional art forms here in the Philippines are being faded away as society progresses. Through making these kind of generators, we can preserve and still appreciate these traditonal art forms.
@@ -19,7 +17,7 @@ Users can input their preferred:
   * Primary Color
   * Secondary Color
   * Generate a PNG or GIF pattern
-  * 
+
 <p align="center">
   <img src="/visualization/gen-ui.png" width="500">
 </p>
@@ -34,7 +32,7 @@ Here are some *nice* outputs made from our generator.
 Here are some GIF animations.
 
 <p align="center">
-  <img src="/patterns-output/GIF189142342021.gif" width="315"> <img src="/patterns-output/GIF38142342021.gif" width="315"> <img src="/patterns-output/GIF555132342021.gif" width="315">
+  <img src="/patterns-output/GIF189142342021.gif" width="315"> <img src="/patterns-output/GIF555132342021.gif" width="315"> <img src="/patterns-output/GIF38142342021.gif" width="315">
 </p>
 
 # Used Python modules
