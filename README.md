@@ -22,19 +22,20 @@ Users can input their preferred:
 # Output examples
 Here are some nice outputs from our generator.
 
-<img src="/patterns-output/PNG139142342021.png" width="500">
+<img src="/patterns-output/PNG139142342021.png" width="300">
 
-<img src="/patterns-output/PNG3354132342021.png" width="500">
+<img src="/patterns-output/PNG3354132342021.png" width="300">
 
-<img src="/patterns-output/PNG587142342021.png" width="500">
+<img src="/patterns-output/PNG587142342021.png" width="300">
 
 Here are some GIF animations.
 
-<img src="/patterns-output/GIF189142342021.gif" width="500">
+<img src="/patterns-output/GIF189142342021.gif" width="300">
 
-<img src="/patterns-output/GIF38142342021.gif" width="500">
+<img src="/patterns-output/GIF38142342021.gif" width="300">
 
-<img src="/patterns-output/GIF555132342021.gif" width="500">
+<img src="/patterns-output/GIF555132342021.gif" width="300">
+
 # Used Python modules
 * **wxPython** for the app GUI
 * **PIL** for image processing
