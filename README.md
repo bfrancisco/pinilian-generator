@@ -25,7 +25,7 @@ Users can input their preferred:
 </p>
 
 # Output examples
-Here are some *nice* outputs made from our generator.
+Here are some *nice* outputs made from the generator.
 
 <p align="center">
   <img src="/patterns-output/PNG139142342021.png" width="315"> <img src="/patterns-output/PNG3354132342021.png" width="315"> <img src="/patterns-output/PNG587142342021.png" width="315">
