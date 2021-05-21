@@ -1,7 +1,7 @@
 # What's Pinilian?
 Pinilian is a traditional weaving technique in the Philippines.
 
-Pinilian means **divided** or **separated** referring to the grid or checkerboard style of the design.
+Pinilian means *divided* or *separated* referring to the grid or checkerboard style of the design.
 
 <img src="/visualization/PinilianWeaving.jpg" width="500">
 
